@@ -1,0 +1,40 @@
+.border{   
+    border-radius: 10px;
+    width: 40%;
+    height: auto;
+	margin: auto;
+    text-align: center;
+    padding-top: 15px;
+}
+
+
+
+.inputBox{
+    border: none;
+    margin: 15px;
+    border-bottom: 1px solid gray;    
+    color: black;
+    font-size: 18px;
+    width: 80%;
+    height: 20%;
+}
+.submitBox{
+    border-radius: 10px;
+    margin: 15px;
+    color: white;
+    background-color: rgba(248, 34, 19, 0.795);
+    font-size: 18px;
+    width: 65%;
+    height: 20%;
+}
+
+
+.button {
+    width: 45%;
+		background-color: transparent;
+		border: 1px solid #928a8a;
+		border-radius: 10px;
+		font-size: 65%;
+        font-weight: 20%;		
+    }
+

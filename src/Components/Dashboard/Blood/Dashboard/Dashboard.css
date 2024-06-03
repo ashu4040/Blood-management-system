@@ -1,0 +1,21 @@
+.backgroundDashboard{
+    /* background-image: url(../../Image/Dashboard/background.jpg); */
+    background-repeat: no-repeat;
+    background-position-y: bottom;
+    background-position-x: right;
+}
+.sidebar{
+    background-image: linear-gradient(40deg, #d35d19,#ec0f59);
+    position: fixed;
+}
+.sidebar li{
+    margin-bottom: 2em;
+}
+.sidebar li:hover span{
+    display: inline-block;
+    transform: translate(5px);
+}
+.sidebar svg{
+    margin-right: 5px;
+    
+}
